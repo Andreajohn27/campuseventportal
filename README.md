@@ -2,6 +2,8 @@
 
 A Java-based web application developed to manage and register for campus events.
 
+![CampusPortal](CEP.png)
+
 ### Features
 - Student event registration
 - Event details and listings
